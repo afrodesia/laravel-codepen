@@ -5,6 +5,9 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*",
+		"dompdf/dompdf" : "dev-master",
+		"stripe/stripe-php" : "dev-master",
+		"fzaninotto/faker" : "dev-master",
 		"way/generators": "dev-master"
 	},
 	"autoload": {
@@ -33,5 +36,5 @@
 	"config": {
 		"preferred-install": "dist"
 	},
-	"minimum-stability": "stable"
+	"stable": "stable"
 }

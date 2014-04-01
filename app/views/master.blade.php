@@ -47,5 +47,8 @@
 <!-- <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="assets/js/todoapp.js"></script> -->
 
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>
+<script src="{{asset("assets/js/app.js")}}"></script> --> 
+
 </body>
 </html>
